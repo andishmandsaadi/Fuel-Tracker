@@ -9,7 +9,10 @@ npm install
 ```
 npm run serve
 ```
-
+### Run the JSON-Server backend (http://localhost:5000)
+```
+npm run backend
+```
 ### Compiles and minifies for production
 ```
 npm run build
