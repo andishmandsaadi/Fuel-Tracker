@@ -1,0 +1,24 @@
+{
+  "favourites": [
+    {
+      "il": "samsun",
+      "ilce": "atakum",
+      "id": 2
+    },
+    {
+      "il": "ankara",
+      "ilce": "altindag",
+      "id": 3
+    },
+    {
+      "il": "agri",
+      "ilce": "diyadin",
+      "id": 4
+    },
+    {
+      "il": "adiyaman",
+      "ilce": "sincik",
+      "id": 5
+    }
+  ]
+}
