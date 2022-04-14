@@ -17,7 +17,10 @@ npm run backend
 ```
 npm run build
 ```
-
+### Get yourself a free api key from(https://collectapi.com/tr/api/gasPrice/akaryakit-fiyatlari-api)
+```
+Place your free api key in vueCard.vue
+```
 ### Lints and fixes files
 ```
 npm run lint
